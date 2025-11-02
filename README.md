@@ -73,7 +73,7 @@ It provides an interactive view of **Sales, Profit, Cost, and Quantity Sold** us
 ---
 
 ## 👨‍💻 Author
-**Shrikant Nevase**  
+**Rushikesh Shinde**  
 *Aspiring Data Analyst | Power BI & ML Enthusiast*  
 [GitHub Profile](https://github.com/your-username)
 
